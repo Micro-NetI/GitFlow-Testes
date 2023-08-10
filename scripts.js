@@ -1,3 +1,3 @@
-function tesdte() {
-    alert("Testes 1")
+function afonso() {
+    alert("Afonso Almeida")
 }
